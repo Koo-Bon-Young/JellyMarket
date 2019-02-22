@@ -1,3 +1,5 @@
-# JellyMarket
+ JellyMarket
 
-Header 1 | 
+#목표
+---------
+젤리를 판매하는 마켓을 체계적으로 관리할 수 있도록 한다
